@@ -1,0 +1,9 @@
+# OS and system files
+.DS_Store
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Local notes
+notes.txt
